@@ -31,3 +31,4 @@ This project demonstrates client-side form validation. It does not send messages
 ## Author
 
 Created as part of the Elevvo Frontend Development Internship.
+Okonkwo Joshua C
